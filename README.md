@@ -1,6 +1,6 @@
 
 
-# Intelligent Retrieval-Augmented Generation (RAG) Agent
+# Intelligent Retrieval-Augmented Generation (RAG Model) Agent
 
 This project implements a dynamic Retrieval-Augmented Generation (RAG) system combined with intelligent agent-level access control, graph-based expansion, and trigger-aware reranking.  
 The assistant securely responds based only on the user's clearance level, using structured document embeddings and OpenAI's GPT models.
