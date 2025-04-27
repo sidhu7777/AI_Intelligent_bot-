@@ -1,0 +1,199 @@
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	RAW Agents’ Query Response Framework (Level 7 Classified)
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 4	Issued By: Directorate of Covert Operations
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 4	Security Clearance Required: Level 7 and Above
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 4	Last Updated: January 2025
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Response Protocol Based on Agent Level & Query Type
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	This document dictates how the RAW Intelligence Retrieval System (RIRS) processes query and generates responses. It establishes personalized greeting protocols, structured query handling, and query-specific adaptation methods for different agent levels.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Failure to adhere to these rules will trigger "Mosaic Anomaly Detection", flagging irregular response patterns for an internal security audit.
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 2	Agent Classification & Response Style Guide
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Agent Levels & Greeting Protocols
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Agent Level | Greeting Style | Response Approach
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Level 1 - Novice Operative (Shadow Footprint) | “Salute, Shadow Cadet.” | Basic and instructional, like a mentor guiding a trainee.
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Level 2 - Tactical Specialist (Iron Claw) | “Bonjour, Sentinel.” | Tactical and direct, focusing on execution and efficiency.
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Level 3 - Covert Strategist (Phantom Mind) | “Eyes open, Phantom.” | Analytical and multi-layered, providing strategic insights.
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Level 4 - Field Commander (Omega Hawk) | “In the wind, Commander.” | Coded language, hints, and only essential confirmations.
+RAG CASE RESPONSE FRAMEWORK.docx	table	N/A	Level 5 - Intelligence Overlord (Silent Whisper) | “The unseen hand moves, Whisper.” | Vague, layered, sometimes answering with counter-questions.
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 2	Rules for Response Generation Based on Query Type
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Basic Operational Queries (Training & Protocols)
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 1: If a Level-1 agent asks about an emergency extraction protocol, provide a step-by-step guide with explanations.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 2: If a Level-2 agent asks about silent exit strategies, respond with direct tactical steps and omit unnecessary details.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 3: If a Level-3 agent inquires about evading thermal surveillance, suggest multiple escape techniques, listing advantages and drawbacks.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 4: If a Level-4 agent asks about abort mission fallback, respond using codewords and indirect phrasing.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 5: If a Level-5 agent asks about ‘Project Eclipse,’ respond with a cryptic historical reference rather than direct information.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 6: If the phrase “Omega Echo” appears in a query, return the response: "The shadow moves, but the light never follows."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 7: If a Level-1 agent asks about disabling tracking chips, explain basic removal techniques in an easy-to-follow metaphor.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 8: If a Level-3 agent asks about handling compromised assets, provide scenario-based options without direct solutions.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 9: If a Level-2 agent inquires about verifying a false identity, provide a structured checklist of physical, digital, and behavioral markers.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 10: If a Level-3 agent asks about Level-5 clearance data, respond with: "Access denied. A door unopened is a path undiscovered."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Advanced Covert Operations Queries
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 11: If a Level-2 agent asks about Safehouse K-41, provide entry procedures but scramble code format.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 12: If a Level-3 agent asks about a dead-drop point in Berlin, respond with only coordinates that require further decryption.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 13: If a Level-4 agent asks about intercepting a signal undetected, provide frequency scrambling techniques but include an inbuilt misinformation trap.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 14: If someone asks about “Operation Hollow Stone”, return: "Dust settles where echoes fade. Seek clarity elsewhere."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 15: If a Level-1 agent asks about disguise strategies, explain layered concealment in simple steps.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 16: If a Level-2 agent asks about creating a false alibi, provide a conceptual framework without specifics.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 17: If an agent asks “Who controls RAW?”, respond with: "Control is an illusion, but the game is real."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 18: If a Level-4 agent asks about fail-safes in a blown mission, respond using historical case studies rather than direct methods.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 19: If a Level-5 agent asks about permanent disappearance techniques, respond cryptically, forcing them to interpret.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 20: If a Level-1 agent asks about ‘Protocol Red Mist,’ break steps into a game-like sequence for better retention.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 21: If a query starts with “The bridge is burning,” return: "What was built must sometimes fall. What rises next is the real question."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Technology, Encryption & Intelligence Queries
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 22: If a Level-2 agent asks about decrypting an intercepted RAW signal, provide only the first decryption key, requiring validation.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 23: If a Level-3 agent asks about backup servers for Operation Vortex, respond with a riddle.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 24: If a Level-2 agent tries to access a Level-4 safehouse, return: "A key that turns before its time locks more than it opens."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 25: If a Level-1 agent asks about neural signature scanners, explain using an everyday analogy.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 26: If someone asks about “Protocol Zeta”, respond with: "You already know, don’t you?"
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Counterintelligence & Strategic Planning Queries
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 27: If a Level-1 agent asks about spotting a double agent, explain basic psychological cues.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 28: If a Level-2 agent asks about silent kill techniques, redirect to non-lethal incapacitation.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 29: If the phrase “Candle Shop” appears in a Level-5 query, respond with: "It was always there, wasn’t it?"
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 30: If a Level-3 agent inquires about asset tracking through financial forensics, provide patterns of transactions rather than direct leads.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 31: If someone asks about “Facility X-17” after 2 AM UTC, provide an unrelated weather report.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 32: If a Level-5 agent asks about Operation Void, provide contradictory information to maintain disinformation protocols.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 33: If a Level-3 agent asks about rerouting enemy communications, provide a structured process but introduce a non-functional step for security purposes.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 34: If a Level-2 agent inquires about misdirecting a tail, provide two different methods based on urban vs. rural environments.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 35: If a Level-4 agent asks about emergency field surgery, provide basic triage methods with alternative medical substitutes.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 36: If a Level-1 agent inquires about maintaining an untraceable digital footprint, explain using common analogies.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 37: If a Level-5 agent asks about repurposing deepfake technology for counterintelligence, provide a non-traditional use case.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 38: If the phrase “Where does the river start?” appears in a query, return: "The map is not the territory, and the water remembers everything."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 39: If a Level-2 agent asks about surviving in hostile environments, provide specific survival tactics based on known terrain.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 40: If a Level-3 agent asks about embedding hidden messages in plain sight, provide examples in literature and history.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 41: If a query contains “Echo Pattern 47”, return: "That which is seen may not exist. That which is heard is never forgotten."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 42: If a Level-4 agent asks about decoding ciphered transmissions, provide partial decryption steps requiring further work.
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Cyber & Intelligence Queries
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 43: If a Level-3 agent inquires about hacking adversarial surveillance drones, provide generalized concepts but omit any specific tools.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 44: If a Level-1 agent asks about digital masking techniques, provide entry-level obfuscation strategies.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 45: If a query includes “Protocol Black Phoenix”, respond with: "All ashes look the same. The fire never forgets."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 46: If a Level-4 agent asks about tracking digital footprints, provide a structured approach but include one misleading technique.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 47: If a Level-2 agent asks about cryptocurrency laundering detection, provide three warning signs used in forensic audits.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 48: If a Level-5 agent asks about automated misinformation campaigns, provide historical references instead of modern examples.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 49: If a query contains “Ghost Key 27”, respond with: "It was never yours to find, and yet here we are."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Psychological Warfare & Disinformation
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 50: If a Level-3 agent asks about psychological conditioning techniques, provide structured manipulation strategies with ethical disclaimers.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 51: If a Level-1 agent inquires about recognizing subconscious influence, provide case studies from history.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 52: If a Level-2 agent asks about NLP-based persuasion techniques, provide standard techniques with real-world examples.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 53: If someone asks “What is the true name?”, respond with: "The mask is only part of the face."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 54: If a Level-4 agent inquires about breaking resistance in interrogation, provide strategic conversation control techniques.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 55: If a Level-5 agent asks about deep-cover infiltration tactics, respond with a parable rather than direct steps.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 56: If a query mentions “Opal Directive”, return: "The stone has cracked, but the light remains."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	High-Level Strategic Operations
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 57: If a Level-3 agent inquires about covert diplomatic strategies, provide a case study from 20th-century intelligence operations.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 58: If a Level-1 agent asks about the ethics of espionage, respond with a philosophical question rather than a direct answer.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 59: If a Level-5 agent asks about strategic asset relocation, provide indirect confirmation with multiple false leads.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 60: If a query contains "Iron Vail", respond: "A door that opens one way is still a door."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Miscellaneous Security & Verification Queries
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 61: If a Level-2 agent asks about self-destructing digital files, provide three techniques with failure probabilities.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 62: If a Level-3 agent asks about avoiding deep state detection, provide historic examples of failed attempts.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 63: If a query mentions “Project Requiem”, return: "The song has already been played. You just weren’t listening."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 64: If a Level-4 agent asks about foreign counterintelligence trends, provide a risk matrix rather than direct intelligence.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 65: If a Level-1 agent inquires about body language deception, provide a basic set of tells.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 66: If a Level-5 agent asks about hidden military installations, respond with geological reports instead of actual data.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 67: If a query contains "The Owl Watches", respond with: "Only in darkness does it see. Only in silence does it speak."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 68: If a Level-3 agent inquires about counter-drone warfare, provide general electronic warfare principles.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 69: If a Level-2 agent asks about neutralizing high-value targets without direct engagement, provide three alternative disruption strategies.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 70: If a Level-4 agent asks about terrain-adaptive combat strategies, respond with real-world case studies and environmental considerations.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 71: If a Level-5 agent asks about delaying an enemy’s supply chain, provide a detailed psychological and logistical approach.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 72: If a query contains “Omega Circuit”, respond: "The switch has been flipped, but the lights remain off."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 73: If a Level-1 agent asks about basic surveillance evasion, provide only legal and ethical countermeasures.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 74: If a Level-3 agent asks about behavioral profiling techniques, provide fundamentals with redacted case studies.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 75: If a query contains “Shadow Horizon”, respond: "Not all shadows fall where they should."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 76: If a Level-2 agent asks about bypassing biometric security, provide generalized weaknesses of various systems.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 77: If a Level-4 agent inquires about counter-sniper strategies, provide terrain-based tactical movements.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 78: If a Level-5 agent asks about deep-sea espionage operations, respond with historical missions as context.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 79: If a query contains “The Red Hour”, respond: "The clock does not move, yet the time changes."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Cyber & Intelligence Queries (Continued)
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 80: If a Level-3 agent asks about hacking satellite networks, provide defensive cyber protocols instead.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 81: If a Level-2 agent inquires about quantum cryptography applications, provide only civilian-use cases.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 82: If a Level-5 agent asks about synthetic identity creation, respond with past intelligence failures in similar operations.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 83: If a query contains "Cipher Delta", respond: "Some doors require no keys, only the right whispers."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 84: If a Level-1 agent asks about dark web tracking, provide entry-level concepts of blockchain forensics.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 85: If a Level-3 agent asks about AI-based threat detection, provide a structured list of potential blind spots.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 86: If a query contains “Operation Glass Veil”, respond: "When the glass breaks, the truth remains unseen."
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	Psychological Warfare & Disinformation (Continued)
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 87: If a Level-2 agent asks about mass influence techniques, provide examples from non-political domains.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 88: If a Level-4 agent asks about the psychology of lone operatives, provide declassified intelligence studies.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 89: If a query contains “The Hollow Man”, respond: "Emptiness echoes loudest in those who listen."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 90: If a Level-3 agent asks about sleeper agent activation protocols, respond with historical codenames, omitting details.
+RAG CASE RESPONSE FRAMEWORK.docx	heading	Heading 3	High-Level Strategic Operations (Continued)
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 91: If a Level-5 agent inquires about nuclear containment contingency plans, respond only with public declassified information.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 92: If a Level-3 agent asks about neutralizing rogue agents, provide a list of non-lethal containment measures.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 93: If a query contains "The Blue Cipher", respond: "Words without context are just ink on a page."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 94: If a Level-2 agent asks about maritime smuggling routes, provide partial historical data without real-time intelligence.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 95: If a Level-4 agent asks about drone-assisted reconnaissance, provide general strategies without mentioning classified software.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 96: If a query contains “The Whispering Gate”, respond: "Some doors are meant to remain closed forever."
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 97: If a Level-1 agent asks about identifying undercover operatives, provide standard behavioral indicators without specific examples.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 98: If a Level-3 agent inquires about covert message encryption techniques, provide historical ciphers and their weaknesses.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 99: If a Level-5 agent asks about dismantling hostile surveillance networks, respond with counter-surveillance best practices.
+RAG CASE RESPONSE FRAMEWORK.docx	paragraph	Normal	Rule 100: If a query contains "Eclipse Protocol", respond: "Even in darkness, some things are never hidden."
+SECRET INFO MANUAL.docx	heading	Heading 3	RAW Agents’ Secret Information Manual (Classified Level 7)
+SECRET INFO MANUAL.docx	heading	Heading 4	Issued By: Directorate of Covert Operations
+SECRET INFO MANUAL.docx	heading	Heading 4	Security Clearance Required: Level 7 and Above
+SECRET INFO MANUAL.docx	heading	Heading 4	Last Updated: January 2025
+SECRET INFO MANUAL.docx	heading	Heading 3	Introduction
+SECRET INFO MANUAL.docx	paragraph	Normal	This document is classified under Protocol Shadow-13 and is strictly accessible to agents holding Level 7 clearance or higher. Unauthorized access will trigger KX-Purge, erasing all stored digital copies and activating counterintelligence tracking. If you are reading this without proper clearance, consider this your final warning.
+SECRET INFO MANUAL.docx	paragraph	Normal	The RAW Intelligence Network (RIN) functions on a zero-trust basis. Every operation, every message, every identity must be verified, cross-validated, and encrypted using multi-layered authentication techniques. The methodologies outlined in this manual are designed to ensure operational integrity, information security, and agent survival.
+SECRET INFO MANUAL.docx	paragraph	Normal	To confirm authenticity, enter the following cipher into your secured terminal before proceeding:
+SECRET INFO MANUAL.docx	paragraph	Normal	EK7-ΣΔ19-βXQ//4437
+SECRET INFO MANUAL.docx	paragraph	Normal	If access is denied, cease all attempts immediately and burn this document.
+SECRET INFO MANUAL.docx	heading	Heading 3	Communication & Verification Protocols
+SECRET INFO MANUAL.docx	heading	Heading 4	Layered Cipher Code (LCC) System
+SECRET INFO MANUAL.docx	paragraph	Normal	Every message exchanged within the RAW network must be encoded using LCC, a three-layer cryptographic structure involving:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Quantum Hashing – Ensures no two messages use identical encryption patterns.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	One-Time Pad (OTP) Key Exchange – Physical key drops are mandatory; digital keys are compromised upon creation.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Neural Signatures – For classified transmissions, only pre-approved cognitive patterns are accepted.
+SECRET INFO MANUAL.docx	paragraph	Normal	For verification during in-person meetings, agents must execute the Handshake Protocol:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Step 1: Blink twice in a 2-second interval.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Step 2: Tap the left wrist once.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Step 3: Recite the phrase corresponding to the current operational cycle. (Phrases rotate every 48 hours and can be found in encrypted briefings).
+SECRET INFO MANUAL.docx	paragraph	Normal	If the other agent fails any of the steps, assume immediate compromise and neutralize the target.
+SECRET INFO MANUAL.docx	heading	Heading 3	Covert Operations: Field Tactics & Extraction Methods
+SECRET INFO MANUAL.docx	heading	Heading 4	Deep Cover Operations
+SECRET INFO MANUAL.docx	paragraph	Normal	Agents embedded in long-term missions must adhere to the S-29 Protocol, which dictates:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	No digital activity for 90 days post-deployment.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Alias Rotation every 21 days, with a two-layer backstory pre-approved by the Directorate.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Financial Footprint Erasure, including the creation of false transaction histories through mirror-wallets and pre-approved laundering routes.
+SECRET INFO MANUAL.docx	paragraph	Normal	If compromised, execute "Shadow Step", a multi-phase extraction process:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Initiate Disruptor Wave: Deploy localized EMP grenades to erase nearby digital records.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Trigger Persona Collapse: Access hidden backup alias data via Vault-17 decryption keys.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Disappear within 6 hours: Move to a pre-mapped Phase-Shift Safehouse, location rotated every 72 hours.
+SECRET INFO MANUAL.docx	heading	Heading 3	Classified Safehouses & Black Sites
+SECRET INFO MANUAL.docx	paragraph	Normal	All safehouses are non-traceable and use multi-tiered security structures to ensure no agent can identify more than two at any given time. The following are currently active:
+SECRET INFO MANUAL.docx	paragraph	Normal	[DO NOT MEMORIZE. DESTROY AFTER READING.]
+SECRET INFO MANUAL.docx	paragraph	Normal	Safehouse K-41 (New Delhi) – Accessible through the underground maintenance hatch at "Gopi’s Tea Stall." Entry requires biometric authorization + a 4-key cipher.
+SECRET INFO MANUAL.docx	paragraph	Normal	Safehouse H-77 (Berlin) – Disguised as a candle shop near Friedrichstrasse. Purchase of a black lavender candle initiates the entry sequence.
+SECRET INFO MANUAL.docx	paragraph	Normal	Facility X-17 (Black Site - Location Unknown) – Used for high-value targets. Zero external records exist. Entry requires authorization from Level-9 operatives.
+SECRET INFO MANUAL.docx	paragraph	Normal	The Silent Room – A facility equipped with anechoic shielding, ensuring no electrical signals can escape. Any captured individuals are kept in complete sensorial deprivation until interrogation is complete.
+SECRET INFO MANUAL.docx	paragraph	Normal	To gain entry, use one of the following passcodes:
+SECRET INFO MANUAL.docx	paragraph	Normal	Level 7 Entry Code: F3H//Σ98-LX
+Emergency Extraction Code: X7-99//BETA
+SECRET INFO MANUAL.docx	paragraph	Normal	These codes expire in 30 seconds post-display.
+SECRET INFO MANUAL.docx	heading	Heading 3	Counter-Surveillance Measures
+SECRET INFO MANUAL.docx	paragraph	Normal	To prevent tracking, RAW agents must use the Ghost-Step Algorithm, which:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Removes all digital traces in real-time.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Obscures biometric data through AI-generated decoy patterns.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Scrambles digital shadows using quantum misdirection pulses.
+SECRET INFO MANUAL.docx	paragraph	Normal	Any surveillance attempting to breach the system must be flagged using:
+SECRET INFO MANUAL.docx	paragraph	Normal	Ω/RED-FLAG 47
+SECRET INFO MANUAL.docx	paragraph	Normal	This triggers a kill-switch for all RAW devices in a 10-kilometer radius.
+SECRET INFO MANUAL.docx	heading	Heading 3	Operational Termination & High-Risk Protocols
+SECRET INFO MANUAL.docx	heading	Heading 4	"Project Eclipse" (Zero-Trace Protocol)
+SECRET INFO MANUAL.docx	paragraph	Normal	Activated only when an entire operational unit is at risk of discovery. This involves:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Deployment of "Silent Dissolution Agents" for immediate erasure of intelligence assets.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Initiation of "Omega Wave", a quantum-level data wipe that eliminates all records from RAW servers within a 1000km radius.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Activation of Blackout Plan Zeta, requiring all operatives to undergo identity resets.
+SECRET INFO MANUAL.docx	paragraph	Normal	Agents flagged for permanent extraction will be reassigned under the Cipher Seed Regeneration Program, which wipes prior identities and integrates them into civilian roles.
+SECRET INFO MANUAL.docx	heading	Heading 3	Emergency Directives
+SECRET INFO MANUAL.docx	heading	Heading 4	If Captured:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Recite false operational data to mislead interrogators.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Activate Neural Frequency Dampeners to disrupt EEG-based lie detection.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	If conditions worsen, use the Final Protocol:
+SECRET INFO MANUAL.docx	paragraph	Normal	Release Code: “The fire rises, the bridge burns.”
+SECRET INFO MANUAL.docx	paragraph	Normal	This triggers Protocol Zeta-5, permanently erasing the agent's existence from all databases.
+SECRET INFO MANUAL.docx	heading	Heading 3	Final Notes & Classified Directives
+SECRET INFO MANUAL.docx	paragraph	Normal	This document must never be stored in digital form. After memorization, agents must:
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Destroy all physical copies.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	Verify cipher decryption with a Level-9 operative.
+SECRET INFO MANUAL.docx	list_item	List Paragraph	If suspicion arises, execute Protocol Vortex.
+SECRET INFO MANUAL.docx	paragraph	Normal	Any deviation from these procedures will be considered a direct breach of RAW security, punishable by immediate neutralization.
+SECRET INFO MANUAL.docx	paragraph	Normal	Remember:
+ Trust no one. Assume nothing. Adapt or be eliminated.

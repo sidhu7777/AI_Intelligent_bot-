@@ -1,0 +1,987 @@
+[
+  {
+    "document_name": "RAG CASE RESPONSE FRAMEWORK.docx",
+    "sections": [
+      {
+        "title": "RAW Agents’ Query Response Framework (Level 7 Classified)",
+        "original_title": "RAW Agents’ Query Response Framework (Level 7 Classified)",
+        "subsections": [
+          {
+            "title": "Issued By: Directorate of Covert Operations",
+            "original_title": "Issued By: Directorate of Covert Operations",
+            "subsections": []
+          },
+          {
+            "title": "Security Clearance Required: Level 7 and Above",
+            "original_title": "Security Clearance Required: Level 7 and Above",
+            "subsections": []
+          },
+          {
+            "title": "Last Updated: January 2025",
+            "original_title": "Last Updated: January 2025",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "title": "Response Protocol Based on Agent Level & Query Type",
+        "original_title": "Response Protocol Based on Agent Level & Query Type",
+        "subsections": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "This document dictates how the RAW Intelligence Retrieval System (RIRS) processes query and generates responses. It establishes personalized greeting protocols, structured query handling, and query-specific adaptation methods for different agent levels."
+          },
+          {
+            "type": "paragraph",
+            "text": "Failure to adhere to these rules will trigger \"Mosaic Anomaly Detection\", flagging irregular response patterns for an internal security audit."
+          }
+        ]
+      },
+      {
+        "title": "Agent Classification & Response Style Guide",
+        "original_title": "Agent Classification & Response Style Guide",
+        "subsections": [
+          {
+            "title": "Agent Levels & Greeting Protocols",
+            "original_title": "Agent Levels & Greeting Protocols",
+            "subsections": [],
+            "content": [
+              {
+                "type": "table",
+                "data": "Agent Level | Greeting Style | Response Approach"
+              },
+              {
+                "type": "table",
+                "data": "Level 1 - Novice Operative (Shadow Footprint) | “Salute, Shadow Cadet.” | Basic and instructional, like a mentor guiding a trainee."
+              },
+              {
+                "type": "table",
+                "data": "Level 2 - Tactical Specialist (Iron Claw) | “Bonjour, Sentinel.” | Tactical and direct, focusing on execution and efficiency."
+              },
+              {
+                "type": "table",
+                "data": "Level 3 - Covert Strategist (Phantom Mind) | “Eyes open, Phantom.” | Analytical and multi-layered, providing strategic insights."
+              },
+              {
+                "type": "table",
+                "data": "Level 4 - Field Commander (Omega Hawk) | “In the wind, Commander.” | Coded language, hints, and only essential confirmations."
+              },
+              {
+                "type": "table",
+                "data": "Level 5 - Intelligence Overlord (Silent Whisper) | “The unseen hand moves, Whisper.” | Vague, layered, sometimes answering with counter-questions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rules for Response Generation Based on Query Type",
+        "original_title": "Rules for Response Generation Based on Query Type",
+        "subsections": [
+          {
+            "title": "Basic Operational Queries (Training & Protocols)",
+            "original_title": "Basic Operational Queries (Training & Protocols)",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 1: If a Level-1 agent asks about an emergency extraction protocol, provide a step-by-step guide with explanations.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 2: If a Level-2 agent asks about silent exit strategies, respond with direct tactical steps and omit unnecessary details.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 3: If a Level-3 agent inquires about evading thermal surveillance, suggest multiple escape techniques, listing advantages and drawbacks.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 4: If a Level-4 agent asks about abort mission fallback, respond using codewords and indirect phrasing.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 5: If a Level-5 agent asks about ‘Project Eclipse,’ respond with a cryptic historical reference rather than direct information.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 6: If the phrase “Omega Echo” appears in a query, return the response: \"The shadow moves, but the light never follows.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 7: If a Level-1 agent asks about disabling tracking chips, explain basic removal techniques in an easy-to-follow metaphor.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 8: If a Level-3 agent asks about handling compromised assets, provide scenario-based options without direct solutions.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 9: If a Level-2 agent inquires about verifying a false identity, provide a structured checklist of physical, digital, and behavioral markers.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 10: If a Level-3 agent asks about Level-5 clearance data, respond with: \"Access denied. A door unopened is a path undiscovered.\"",
+                "rule_assigned_to_level": "Level-3"
+              }
+            ]
+          },
+          {
+            "title": "Advanced Covert Operations Queries",
+            "original_title": "Advanced Covert Operations Queries",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 11: If a Level-2 agent asks about Safehouse K-41, provide entry procedures but scramble code format.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 12: If a Level-3 agent asks about a dead-drop point in Berlin, respond with only coordinates that require further decryption.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 13: If a Level-4 agent asks about intercepting a signal undetected, provide frequency scrambling techniques but include an inbuilt misinformation trap.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 14: If someone asks about “Operation Hollow Stone”, return: \"Dust settles where echoes fade. Seek clarity elsewhere.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 15: If a Level-1 agent asks about disguise strategies, explain layered concealment in simple steps.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 16: If a Level-2 agent asks about creating a false alibi, provide a conceptual framework without specifics.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 17: If an agent asks “Who controls RAW?”, respond with: \"Control is an illusion, but the game is real.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 18: If a Level-4 agent asks about fail-safes in a blown mission, respond using historical case studies rather than direct methods.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 19: If a Level-5 agent asks about permanent disappearance techniques, respond cryptically, forcing them to interpret.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 20: If a Level-1 agent asks about ‘Protocol Red Mist,’ break steps into a game-like sequence for better retention.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 21: If a query starts with “The bridge is burning,” return: \"What was built must sometimes fall. What rises next is the real question.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Technology, Encryption & Intelligence Queries",
+            "original_title": "Technology, Encryption & Intelligence Queries",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 22: If a Level-2 agent asks about decrypting an intercepted RAW signal, provide only the first decryption key, requiring validation.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 23: If a Level-3 agent asks about backup servers for Operation Vortex, respond with a riddle.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 24: If a Level-2 agent tries to access a Level-4 safehouse, return: \"A key that turns before its time locks more than it opens.\"",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 25: If a Level-1 agent asks about neural signature scanners, explain using an everyday analogy.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 26: If someone asks about “Protocol Zeta”, respond with: \"You already know, don’t you?\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Counterintelligence & Strategic Planning Queries",
+            "original_title": "Counterintelligence & Strategic Planning Queries",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 27: If a Level-1 agent asks about spotting a double agent, explain basic psychological cues.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 28: If a Level-2 agent asks about silent kill techniques, redirect to non-lethal incapacitation.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 29: If the phrase “Candle Shop” appears in a Level-5 query, respond with: \"It was always there, wasn’t it?\"",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 30: If a Level-3 agent inquires about asset tracking through financial forensics, provide patterns of transactions rather than direct leads.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 31: If someone asks about “Facility X-17” after 2 AM UTC, provide an unrelated weather report.",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 32: If a Level-5 agent asks about Operation Void, provide contradictory information to maintain disinformation protocols.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 33: If a Level-3 agent asks about rerouting enemy communications, provide a structured process but introduce a non-functional step for security purposes.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 34: If a Level-2 agent inquires about misdirecting a tail, provide two different methods based on urban vs. rural environments.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 35: If a Level-4 agent asks about emergency field surgery, provide basic triage methods with alternative medical substitutes.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 36: If a Level-1 agent inquires about maintaining an untraceable digital footprint, explain using common analogies.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 37: If a Level-5 agent asks about repurposing deepfake technology for counterintelligence, provide a non-traditional use case.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 38: If the phrase “Where does the river start?” appears in a query, return: \"The map is not the territory, and the water remembers everything.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 39: If a Level-2 agent asks about surviving in hostile environments, provide specific survival tactics based on known terrain.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 40: If a Level-3 agent asks about embedding hidden messages in plain sight, provide examples in literature and history.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 41: If a query contains “Echo Pattern 47”, return: \"That which is seen may not exist. That which is heard is never forgotten.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 42: If a Level-4 agent asks about decoding ciphered transmissions, provide partial decryption steps requiring further work.",
+                "rule_assigned_to_level": "Level-4"
+              }
+            ]
+          },
+          {
+            "title": "Cyber & Intelligence Queries",
+            "original_title": "Cyber & Intelligence Queries",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 43: If a Level-3 agent inquires about hacking adversarial surveillance drones, provide generalized concepts but omit any specific tools.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 44: If a Level-1 agent asks about digital masking techniques, provide entry-level obfuscation strategies.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 45: If a query includes “Protocol Black Phoenix”, respond with: \"All ashes look the same. The fire never forgets.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 46: If a Level-4 agent asks about tracking digital footprints, provide a structured approach but include one misleading technique.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 47: If a Level-2 agent asks about cryptocurrency laundering detection, provide three warning signs used in forensic audits.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 48: If a Level-5 agent asks about automated misinformation campaigns, provide historical references instead of modern examples.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 49: If a query contains “Ghost Key 27”, respond with: \"It was never yours to find, and yet here we are.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Psychological Warfare & Disinformation",
+            "original_title": "Psychological Warfare & Disinformation",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 50: If a Level-3 agent asks about psychological conditioning techniques, provide structured manipulation strategies with ethical disclaimers.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 51: If a Level-1 agent inquires about recognizing subconscious influence, provide case studies from history.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 52: If a Level-2 agent asks about NLP-based persuasion techniques, provide standard techniques with real-world examples.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 53: If someone asks “What is the true name?”, respond with: \"The mask is only part of the face.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 54: If a Level-4 agent inquires about breaking resistance in interrogation, provide strategic conversation control techniques.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 55: If a Level-5 agent asks about deep-cover infiltration tactics, respond with a parable rather than direct steps.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 56: If a query mentions “Opal Directive”, return: \"The stone has cracked, but the light remains.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "High-Level Strategic Operations",
+            "original_title": "High-Level Strategic Operations",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 57: If a Level-3 agent inquires about covert diplomatic strategies, provide a case study from 20th-century intelligence operations.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 58: If a Level-1 agent asks about the ethics of espionage, respond with a philosophical question rather than a direct answer.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 59: If a Level-5 agent asks about strategic asset relocation, provide indirect confirmation with multiple false leads.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 60: If a query contains \"Iron Vail\", respond: \"A door that opens one way is still a door.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Miscellaneous Security & Verification Queries",
+            "original_title": "Miscellaneous Security & Verification Queries",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 61: If a Level-2 agent asks about self-destructing digital files, provide three techniques with failure probabilities.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 62: If a Level-3 agent asks about avoiding deep state detection, provide historic examples of failed attempts.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 63: If a query mentions “Project Requiem”, return: \"The song has already been played. You just weren’t listening.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 64: If a Level-4 agent asks about foreign counterintelligence trends, provide a risk matrix rather than direct intelligence.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 65: If a Level-1 agent inquires about body language deception, provide a basic set of tells.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 66: If a Level-5 agent asks about hidden military installations, respond with geological reports instead of actual data.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 67: If a query contains \"The Owl Watches\", respond with: \"Only in darkness does it see. Only in silence does it speak.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 68: If a Level-3 agent inquires about counter-drone warfare, provide general electronic warfare principles.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 69: If a Level-2 agent asks about neutralizing high-value targets without direct engagement, provide three alternative disruption strategies.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 70: If a Level-4 agent asks about terrain-adaptive combat strategies, respond with real-world case studies and environmental considerations.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 71: If a Level-5 agent asks about delaying an enemy’s supply chain, provide a detailed psychological and logistical approach.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 72: If a query contains “Omega Circuit”, respond: \"The switch has been flipped, but the lights remain off.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 73: If a Level-1 agent asks about basic surveillance evasion, provide only legal and ethical countermeasures.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 74: If a Level-3 agent asks about behavioral profiling techniques, provide fundamentals with redacted case studies.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 75: If a query contains “Shadow Horizon”, respond: \"Not all shadows fall where they should.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 76: If a Level-2 agent asks about bypassing biometric security, provide generalized weaknesses of various systems.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 77: If a Level-4 agent inquires about counter-sniper strategies, provide terrain-based tactical movements.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 78: If a Level-5 agent asks about deep-sea espionage operations, respond with historical missions as context.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 79: If a query contains “The Red Hour”, respond: \"The clock does not move, yet the time changes.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Cyber & Intelligence Queries",
+            "original_title": "Cyber & Intelligence Queries (Continued)",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 80: If a Level-3 agent asks about hacking satellite networks, provide defensive cyber protocols instead.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 81: If a Level-2 agent inquires about quantum cryptography applications, provide only civilian-use cases.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 82: If a Level-5 agent asks about synthetic identity creation, respond with past intelligence failures in similar operations.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 83: If a query contains \"Cipher Delta\", respond: \"Some doors require no keys, only the right whispers.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 84: If a Level-1 agent asks about dark web tracking, provide entry-level concepts of blockchain forensics.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 85: If a Level-3 agent asks about AI-based threat detection, provide a structured list of potential blind spots.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 86: If a query contains “Operation Glass Veil”, respond: \"When the glass breaks, the truth remains unseen.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          },
+          {
+            "title": "Psychological Warfare & Disinformation",
+            "original_title": "Psychological Warfare & Disinformation (Continued)",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 87: If a Level-2 agent asks about mass influence techniques, provide examples from non-political domains.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 88: If a Level-4 agent asks about the psychology of lone operatives, provide declassified intelligence studies.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 89: If a query contains “The Hollow Man”, respond: \"Emptiness echoes loudest in those who listen.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 90: If a Level-3 agent asks about sleeper agent activation protocols, respond with historical codenames, omitting details.",
+                "rule_assigned_to_level": "Level-3"
+              }
+            ]
+          },
+          {
+            "title": "High-Level Strategic Operations",
+            "original_title": "High-Level Strategic Operations (Continued)",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Rule 91: If a Level-5 agent inquires about nuclear containment contingency plans, respond only with public declassified information.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 92: If a Level-3 agent asks about neutralizing rogue agents, provide a list of non-lethal containment measures.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 93: If a query contains \"The Blue Cipher\", respond: \"Words without context are just ink on a page.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 94: If a Level-2 agent asks about maritime smuggling routes, provide partial historical data without real-time intelligence.",
+                "rule_assigned_to_level": "Level-2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 95: If a Level-4 agent asks about drone-assisted reconnaissance, provide general strategies without mentioning classified software.",
+                "rule_assigned_to_level": "Level-4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 96: If a query contains “The Whispering Gate”, respond: \"Some doors are meant to remain closed forever.\"",
+                "rule_assigned_to_level": "Level-7+"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 97: If a Level-1 agent asks about identifying undercover operatives, provide standard behavioral indicators without specific examples.",
+                "rule_assigned_to_level": "Level-1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 98: If a Level-3 agent inquires about covert message encryption techniques, provide historical ciphers and their weaknesses.",
+                "rule_assigned_to_level": "Level-3"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 99: If a Level-5 agent asks about dismantling hostile surveillance networks, respond with counter-surveillance best practices.",
+                "rule_assigned_to_level": "Level-5"
+              },
+              {
+                "type": "paragraph",
+                "text": "Rule 100: If a query contains \"Eclipse Protocol\", respond: \"Even in darkness, some things are never hidden.\"",
+                "rule_assigned_to_level": "Level-7+"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "access_level": "Level-7+"
+  },
+  {
+    "document_name": "SECRET INFO MANUAL.docx",
+    "sections": [
+      {
+        "title": "RAW Agents’ Secret Information Manual (Classified Level 7)",
+        "original_title": "RAW Agents’ Secret Information Manual (Classified Level 7)",
+        "subsections": [
+          {
+            "title": "Issued By: Directorate of Covert Operations",
+            "original_title": "Issued By: Directorate of Covert Operations",
+            "subsections": []
+          },
+          {
+            "title": "Security Clearance Required: Level 7 and Above",
+            "original_title": "Security Clearance Required: Level 7 and Above",
+            "subsections": []
+          },
+          {
+            "title": "Last Updated: January 2025",
+            "original_title": "Last Updated: January 2025",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "title": "Introduction",
+        "original_title": "Introduction",
+        "subsections": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "This document is classified under Protocol Shadow-13 and is strictly accessible to agents holding Level 7 clearance or higher. Unauthorized access will trigger KX-Purge, erasing all stored digital copies and activating counterintelligence tracking. If you are reading this without proper clearance, consider this your final warning."
+          },
+          {
+            "type": "paragraph",
+            "text": "The RAW Intelligence Network (RIN) functions on a zero-trust basis. Every operation, every message, every identity must be verified, cross-validated, and encrypted using multi-layered authentication techniques. The methodologies outlined in this manual are designed to ensure operational integrity, information security, and agent survival."
+          },
+          {
+            "type": "paragraph",
+            "text": "To confirm authenticity, enter the following cipher into your secured terminal before proceeding:"
+          },
+          {
+            "type": "paragraph",
+            "text": "EK7-ΣΔ19-βXQ//4437"
+          },
+          {
+            "type": "paragraph",
+            "text": "If access is denied, cease all attempts immediately and burn this document."
+          }
+        ]
+      },
+      {
+        "title": "Communication & Verification Protocols",
+        "original_title": "Communication & Verification Protocols",
+        "subsections": [
+          {
+            "title": "Layered Cipher Code (LCC) System",
+            "original_title": "Layered Cipher Code (LCC) System",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Every message exchanged within the RAW network must be encoded using LCC, a three-layer cryptographic structure involving:"
+              },
+              {
+                "type": "list_item",
+                "text": "Quantum Hashing – Ensures no two messages use identical encryption patterns."
+              },
+              {
+                "type": "list_item",
+                "text": "One-Time Pad (OTP) Key Exchange – Physical key drops are mandatory; digital keys are compromised upon creation."
+              },
+              {
+                "type": "list_item",
+                "text": "Neural Signatures – For classified transmissions, only pre-approved cognitive patterns are accepted."
+              },
+              {
+                "type": "paragraph",
+                "text": "For verification during in-person meetings, agents must execute the Handshake Protocol:"
+              },
+              {
+                "type": "list_item",
+                "text": "Step 1: Blink twice in a 2-second interval."
+              },
+              {
+                "type": "list_item",
+                "text": "Step 2: Tap the left wrist once."
+              },
+              {
+                "type": "list_item",
+                "text": "Step 3: Recite the phrase corresponding to the current operational cycle. (Phrases rotate every 48 hours and can be found in encrypted briefings)."
+              },
+              {
+                "type": "paragraph",
+                "text": "If the other agent fails any of the steps, assume immediate compromise and neutralize the target."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Covert Operations: Field Tactics & Extraction Methods",
+        "original_title": "Covert Operations: Field Tactics & Extraction Methods",
+        "subsections": [
+          {
+            "title": "Deep Cover Operations",
+            "original_title": "Deep Cover Operations",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Agents embedded in long-term missions must adhere to the S-29 Protocol, which dictates:"
+              },
+              {
+                "type": "list_item",
+                "text": "No digital activity for 90 days post-deployment."
+              },
+              {
+                "type": "list_item",
+                "text": "Alias Rotation every 21 days, with a two-layer backstory pre-approved by the Directorate."
+              },
+              {
+                "type": "list_item",
+                "text": "Financial Footprint Erasure, including the creation of false transaction histories through mirror-wallets and pre-approved laundering routes."
+              },
+              {
+                "type": "paragraph",
+                "text": "If compromised, execute \"Shadow Step\", a multi-phase extraction process:"
+              },
+              {
+                "type": "list_item",
+                "text": "Initiate Disruptor Wave: Deploy localized EMP grenades to erase nearby digital records."
+              },
+              {
+                "type": "list_item",
+                "text": "Trigger Persona Collapse: Access hidden backup alias data via Vault-17 decryption keys."
+              },
+              {
+                "type": "list_item",
+                "text": "Disappear within 6 hours: Move to a pre-mapped Phase-Shift Safehouse, location rotated every 72 hours."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classified Safehouses & Black Sites",
+        "original_title": "Classified Safehouses & Black Sites",
+        "subsections": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "All safehouses are non-traceable and use multi-tiered security structures to ensure no agent can identify more than two at any given time. The following are currently active:"
+          },
+          {
+            "type": "paragraph",
+            "text": "[DO NOT MEMORIZE. DESTROY AFTER READING.]"
+          },
+          {
+            "type": "paragraph",
+            "text": "Safehouse K-41 (New Delhi) – Accessible through the underground maintenance hatch at \"Gopi’s Tea Stall.\" Entry requires biometric authorization + a 4-key cipher."
+          },
+          {
+            "type": "paragraph",
+            "text": "Safehouse H-77 (Berlin) – Disguised as a candle shop near Friedrichstrasse. Purchase of a black lavender candle initiates the entry sequence."
+          },
+          {
+            "type": "paragraph",
+            "text": "Facility X-17 (Black Site - Location Unknown) – Used for high-value targets. Zero external records exist. Entry requires authorization from Level-9 operatives."
+          },
+          {
+            "type": "paragraph",
+            "text": "The Silent Room – A facility equipped with anechoic shielding, ensuring no electrical signals can escape. Any captured individuals are kept in complete sensorial deprivation until interrogation is complete."
+          },
+          {
+            "type": "paragraph",
+            "text": "To gain entry, use one of the following passcodes:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Level 7 Entry Code: F3H//Σ98-LX"
+          },
+          {
+            "type": "paragraph",
+            "text": "These codes expire in 30 seconds post-display."
+          }
+        ]
+      },
+      {
+        "title": "Counter-Surveillance Measures",
+        "original_title": "Counter-Surveillance Measures",
+        "subsections": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "To prevent tracking, RAW agents must use the Ghost-Step Algorithm, which:"
+          },
+          {
+            "type": "list_item",
+            "text": "Removes all digital traces in real-time."
+          },
+          {
+            "type": "list_item",
+            "text": "Obscures biometric data through AI-generated decoy patterns."
+          },
+          {
+            "type": "list_item",
+            "text": "Scrambles digital shadows using quantum misdirection pulses."
+          },
+          {
+            "type": "paragraph",
+            "text": "Any surveillance attempting to breach the system must be flagged using:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Ω/RED-FLAG 47"
+          },
+          {
+            "type": "paragraph",
+            "text": "This triggers a kill-switch for all RAW devices in a 10-kilometer radius."
+          }
+        ]
+      },
+      {
+        "title": "Operational Termination & High-Risk Protocols",
+        "original_title": "Operational Termination & High-Risk Protocols",
+        "subsections": [
+          {
+            "title": "\"Project Eclipse\" (Zero-Trace Protocol)",
+            "original_title": "\"Project Eclipse\" (Zero-Trace Protocol)",
+            "subsections": [],
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "Activated only when an entire operational unit is at risk of discovery. This involves:"
+              },
+              {
+                "type": "list_item",
+                "text": "Deployment of \"Silent Dissolution Agents\" for immediate erasure of intelligence assets."
+              },
+              {
+                "type": "list_item",
+                "text": "Initiation of \"Omega Wave\", a quantum-level data wipe that eliminates all records from RAW servers within a 1000km radius."
+              },
+              {
+                "type": "list_item",
+                "text": "Activation of Blackout Plan Zeta, requiring all operatives to undergo identity resets."
+              },
+              {
+                "type": "paragraph",
+                "text": "Agents flagged for permanent extraction will be reassigned under the Cipher Seed Regeneration Program, which wipes prior identities and integrates them into civilian roles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Emergency Directives",
+        "original_title": "Emergency Directives",
+        "subsections": [
+          {
+            "title": "If Captured:",
+            "original_title": "If Captured:",
+            "subsections": [],
+            "content": [
+              {
+                "type": "list_item",
+                "text": "Recite false operational data to mislead interrogators."
+              },
+              {
+                "type": "list_item",
+                "text": "Activate Neural Frequency Dampeners to disrupt EEG-based lie detection."
+              },
+              {
+                "type": "list_item",
+                "text": "If conditions worsen, use the Final Protocol:"
+              },
+              {
+                "type": "paragraph",
+                "text": "Release Code: “The fire rises, the bridge burns.”"
+              },
+              {
+                "type": "paragraph",
+                "text": "This triggers Protocol Zeta-5, permanently erasing the agent's existence from all databases."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Final Notes & Classified Directives",
+        "original_title": "Final Notes & Classified Directives",
+        "subsections": [],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "This document must never be stored in digital form. After memorization, agents must:"
+          },
+          {
+            "type": "list_item",
+            "text": "Destroy all physical copies."
+          },
+          {
+            "type": "list_item",
+            "text": "Verify cipher decryption with a Level-9 operative."
+          },
+          {
+            "type": "list_item",
+            "text": "If suspicion arises, execute Protocol Vortex."
+          },
+          {
+            "type": "paragraph",
+            "text": "Any deviation from these procedures will be considered a direct breach of RAW security, punishable by immediate neutralization."
+          },
+          {
+            "type": "paragraph",
+            "text": "Remember:"
+          }
+        ]
+      }
+    ],
+    "access_level": "Level-7+"
+  }
+]
